@@ -1,6 +1,7 @@
 {
   "name": "page",
   "description": "Tiny client-side router",
+  "version": "1.9.0",
   "keywords": ["page", "route", "router", "routes", "pushState"],
   "main": "page.js",
   "repository": {
